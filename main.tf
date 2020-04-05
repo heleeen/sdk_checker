@@ -10,7 +10,6 @@ provider "aws" {
 }
 
 module "function" {
-  // source = "../heleeen_terraform/lambda"
   source = "git@github.com:heleeen/heleeen_terraform.git//lambda?ref=v0.6"
   name   = var.name
 }
