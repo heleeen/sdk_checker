@@ -1,5 +1,3 @@
-require 'rubygems'
-
 def exec(event:, context:)
   # https://stackoverflow.com/questions/5177634/list-of-installed-gems
   def local_gems
