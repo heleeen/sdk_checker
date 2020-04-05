@@ -1,2 +1,3 @@
 # sdk_checker
-check and report Ruby SDK in AWS Lambda 
+
+check and report Ruby SDK in AWS Lambda
